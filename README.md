@@ -1,0 +1,1 @@
+This project is a simplified, responsive web application that replicates the core layout and styling of Google's homepage. It showcases the use of modern frontend technologies, with a focus on minimalistic design, clean UI, and responsive elements. This clone is an excellent project for practicing web development skills using HTML, Tailwind CSS, and JavaScript.
